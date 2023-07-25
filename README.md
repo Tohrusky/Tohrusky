@@ -2,10 +2,6 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
 
-<div>
-<img src="https://golang.org/doc/gopher/fiveyears.jpg" width="350" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohrusky&langs_count=10&layout=compact&theme=dark" width="350" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohrusky&langs_count=10&layout=compact" width="350" />
