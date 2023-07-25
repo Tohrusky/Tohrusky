@@ -1,6 +1,6 @@
 # ***In [GOLANG](https://go.dev) We Trust***
 
-<img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="400" />
+<img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
 
 <div>
 <img src="https://golang.org/doc/gopher/fiveyears.jpg" width="350" />
