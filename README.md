@@ -1,4 +1,4 @@
-# ***In [GOLANG](https://go.dev) We Trust***
+# ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme)
 
 <img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
 
