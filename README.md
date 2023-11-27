@@ -1,6 +1,6 @@
 # ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme)
 
-<img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
+<img align="right" src="https://s2.loli.net/2023/11/27/wb18DxA9CE7Bzlt.png" width="350" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tohrusky&show_icons=true&include_all_commits=true&theme=dark" width="350" />
