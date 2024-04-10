@@ -1,12 +1,8 @@
 # ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme)
 
-<img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
+![](https://pixel-profile.vercel.app/api/github-stats?username=Tohrusky&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Tohrusky&show_icons=true&include_all_commits=true&theme=dark" width="350" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Tohrusky&show_icons=true&include_all_commits=true" width="350" />
-  <img alt="GitHub" src="https://github-readme-stats.vercel.app/api?username=Tohrusky&show_icons=true&include_all_commits=true" width="350" />
-</picture>
+<img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohrusky&langs_count=10&layout=compact&theme=dark" width="350" />
