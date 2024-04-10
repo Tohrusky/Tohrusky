@@ -13,7 +13,7 @@
 
 I'm open to collaborate on interesting projects~
 
-## Skill Set :muscle:
+*Skill Set* :muscle:
 
 These are some of the major technologies that I use or have worked on in the past:
 
