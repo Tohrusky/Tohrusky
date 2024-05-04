@@ -1,6 +1,6 @@
 # ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme)
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=Tohrusky&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
+![](https://pixel-profile.vercel.app/api/github-stats?username=Tohrusky&theme=journey&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
 <img align="right" src="https://raw.githubusercontent.com/Tohrusky/Tohrusky/main/icon/heerrrtttaa.png" width="350" />
 
