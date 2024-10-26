@@ -1,4 +1,4 @@
-# ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme)
+# ***In [GOLANG](https://go.dev) We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme) [![wakatime](https://wakatime.com/badge/user/4f9cf146-e9bf-4dae-b8fb-94a28ad3e8d7.svg)](https://wakatime.com/@4f9cf146-e9bf-4dae-b8fb-94a28ad3e8d7)
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Tohrusky&theme=journey&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
