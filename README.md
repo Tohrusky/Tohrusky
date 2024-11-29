@@ -2,7 +2,8 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=Tohrusky&theme=journey&background=linear-gradient(to%20bottom%20right%2C%20%232aeeff%2C%20%235580eb))
 
-全民制作人们，大家好，我是练习时长两年半的 CV 练习生, with an interest in multi-modal learning, low-level vision, and MLsys. Occasionally, I also indulge in full-stack development. I'm open to collaborate on interesting projects~
+### 全民制作人们，大家好，我是练习时长两年半的 CV 练习生
+with an interest in *multi-modal learning*, *low-level vision*, and *MLSys*. Occasionally, I also indulge in *full-stack development*. I'm open to collaborate on interesting projects~
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tohrusky&langs_count=10&layout=compact&theme=dark" width="350" />
