@@ -1,7 +1,11 @@
 # ***In LLM We Trust***     ![](https://visitor-badge.laobi.icu/badge?page_id=Tohrusky.readme) [![wakatime](https://wakatime.com/badge/user/4f9cf146-e9bf-4dae-b8fb-94a28ad3e8d7.svg)](https://wakatime.com/@4f9cf146-e9bf-4dae-b8fb-94a28ad3e8d7)
 
-### 全民制作人们，大家好，我是练习时长两年半的小模型练习生
-喜欢 (with an interest in) *LLM*, *MLLM* and *AIGC*. Occasionally, I also indulge in *full-stack development*. I'm open to collaborate on interesting projects~
+### 全民制作人们，大家好，我是练习时长两年半的 Agent 练习生
+喜欢 (with an interest in) *LLMs*, *MLLMs* and *Computer Vision*. 
+
+Occasionally, I also indulge in *full-stack development*. 
+
+I'm open to collaborate on interesting projects~
 
 <img alt="stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=Tohrusky&show_icons=true&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=gruvbox" />
 
